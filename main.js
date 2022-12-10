@@ -5,7 +5,7 @@ function createMap(){
     var mbAttr = '<a href="http://openstreetmap.org">OpenStreetMap</a> |' +' <a href="http://mapbox.com">Mapbox</a>'; //You can add you name to the variable if you want to add yourself to the credits.
 
     //Variable for storing your Mapbox API Token
-    var apitoken = 'pk.eyJ1IjoianVhbnZpbGxhIiwiYSI6ImNsYmNmbnAwaTBmMDEzcHBjaG9lbmRiMHUifQ.nO3213zx2VZSfLLWas4aEg' //Enter your API Token - go to 'https://www.mapbox.com/install/' to yours */
+    var apitoken = 'pk.eyJ1IjoiZWthbnRhY2siLCJhIjoiY2xiaGxkeXgwMHIzbjN2cGR0cmo2ZXA4ZyJ9.wEuQpGgZ1RBIQfpxKdk36A' //Enter your API Token - go to 'https://www.mapbox.com/install/' to yours */
 
     //URL used for Stanard MaxBox Styles
     var mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={token}';
